@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$(bbc 10 2 $1)" 
