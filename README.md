@@ -1,5 +1,5 @@
 # BBC
-To install
+### Installation
 ```bash
 git clone https://github.com/Th3F4nd1t/Bash-Base-Converter
 cd Bash-Base-Converter
@@ -8,7 +8,9 @@ sudo bash ./install.sh        # enter y when prompted
 # optional but recommended removal of install materials
 cd ..
 rm -rf ./Bash-Base-Converter
+```
 
+### Usage
 `bbc <base_from> <base_to> number`
 
 ### Aliases
